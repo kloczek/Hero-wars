@@ -20,7 +20,7 @@ Titans fight by types:
   - Scenarios:
     - First fight with all 4-5 titans, which should be done in manual mode
       If you have enough strong titatns do not use auto mode and do not trigger any titans. Press "q" as the totem will trigger, which should trigger twice. If everything is OK, you should end with a bit scratched tank and full of energy of all earth titahs
-    - The fight starts with all 4-5 titans full of energy (most desirable)
+    - Every next fight
       In the next fights, just use the pack without the tank. You can start in auto mode, allowing each titan trigger only one time. After that, you should disable auto and spam the "q" key. When
 
   
@@ -31,7 +31,6 @@ Titans fight by types:
   
 - Watter
    - First fight with all 4 titans, which should start in auto mode. After Hyperion will trigger first time, disable auto and spam the "q" key. By not allowing  Hyperion twice, you will make the fight longer, allowing totem to heal longer. Trigger only Siguard two times. If you will not be able to end with all titans full of energy, try to trigger Nova as the last titan.
-
    - Always fight with all four water titans. If Siguard has almost no energy and/or low health, remove Siguard from the team (especially if in the enemy team front line is Moloch) and wait until the next fight in the front line will be Vulcan or to heal Siguard in the next mixed fight
   - If the water totem on triggering is not able to kill Moloch/Vulcan, it means that you have too low a level of the water totem
   - If you want to deliver more healing to heal Siguard, raise Hyperion's level or its defense artifact to increase its attack. Usually, if that artifact is on 10 levels lower than the Hyprion level, it is enough. To strong attack artifact causes to strong Hyperion Ice Wave, which decreases the time available for water totem healing
@@ -44,4 +43,15 @@ Titans fight by types:
        Start with auto -> disable auto after water totem will trigger -> if after killing Moloch/Vulcal, remaining enemies titans are still too strong, and in the back line is Araji trigger manually ASP Nova stun. Otherwise, trigger Siguard shield
 
 - Mixed
-  
+  - All such fights should be done with Siguard, Nova, Mairu, Hyperion + other titan that is a damage dealer and/or need to be healed
+  - Try to initialize ASP Lyria to have her with full energy
+  - In every mixed fight Hyperion should enter the battle full of energy
+  - Try to take such fights only when you have at least Hyperion and Siguard full of energy
+    In such a case, first trigger Hyperion → Siguard just before the first titan will hit it → wait until Siguard's shield ends → press “a” to trigger → wait until Hyperion triggers the second time → disable auto to not allow Hyperion finish fight to quickly → control end of the fight manually to finish the fight with maxed energy
+  - Scenarios:
+     - Fight against a pack with one or two tanks
+       Siguard, Nova, Mairi, Hyperion + Siguard/Rigel. Siguard is better
+  - fights are against the pack with Ede and/or Hyperion
+     If you see that the timing of triggered titans will not be stunned by Nova and/or Siguar, try to add Lyria to your team to replenish the health of all titans ASP during the fight
+
+ 
